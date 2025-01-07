@@ -1,0 +1,19 @@
+package MathEnginePackage;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import org.junit.jupiter.api.Test;
+
+class SumTest {
+
+	@Test
+	void testAddNumbers() {
+		
+		 // Act
+        int results = Sum.addNumbers(5, 10);
+        
+        // Assert
+		assertEquals(15, results, "The addNumbers method should return the correct sum of two numbers.");
+	}
+
+}

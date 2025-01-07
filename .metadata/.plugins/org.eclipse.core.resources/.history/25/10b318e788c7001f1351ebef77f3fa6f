@@ -1,0 +1,14 @@
+package MathEnginePackage;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class SumTest {
+
+	@Test
+	void testAddNumbers() {
+		fail("Not yet implemented");
+	}
+
+}

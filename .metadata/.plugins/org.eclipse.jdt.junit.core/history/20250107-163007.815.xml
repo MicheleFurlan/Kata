@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="NarcisisticNumbers" project="NarcisisticNumbers" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="NarcisisticNumberPackage.NumberUtilsTest" time="0.0" displayname="NumberUtilsTest" uniqueid="[engine:junit-jupiter]/[class:NarcisisticNumberPackage.NumberUtilsTest]">
+    <testcase name="testNumbersAreSplitted" classname="NarcisisticNumberPackage.NumberUtilsTest" time="0.0" displayname="testNumbersAreSplitted()" uniqueid="[engine:junit-jupiter]/[class:NarcisisticNumberPackage.NumberUtilsTest]/[method:testNumbersAreSplitted()]"/>
+  </testsuite>
+</testrun>

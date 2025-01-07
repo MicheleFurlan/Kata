@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SquareTest" project="Square" tests="1" started="1" failures="0" errors="1" ignored="0">
+  <testsuite name="SquarePackage.SquareTest" time="0.012" displayname="SquareTest" uniqueid="[engine:junit-vintage]/[runner:SquarePackage.SquareTest]">
+    <testcase name="shouldWorkForSomeExamples" classname="SquarePackage.SquareTest" time="0.012" displayname="shouldWorkForSomeExamples" uniqueid="[engine:junit-vintage]/[runner:SquarePackage.SquareTest]/[test:shouldWorkForSomeExamples(SquarePackage.SquareTest)]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	num cannot be resolved to a variable
+&#13;
+	at SquarePackage.Square.isSquare(Square.java:11)&#13;
+	at SquarePackage.SquareTest.shouldWorkForSomeExamples(SquareTest.java:10)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+&#13;
+</error>
+    </testcase>
+  </testsuite>
+</testrun>

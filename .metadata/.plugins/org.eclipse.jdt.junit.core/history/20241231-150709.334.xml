@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SumTest" project="MathhEngine" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="MathEnginePackage.SumTest" time="0.049" displayname="SumTest" uniqueid="[engine:junit-jupiter]/[class:MathEnginePackage.SumTest]">
+    <testcase name="testAddNumbers" classname="MathEnginePackage.SumTest" time="0.049" displayname="testAddNumbers()" uniqueid="[engine:junit-jupiter]/[class:MathEnginePackage.SumTest]/[method:testAddNumbers()]"/>
+  </testsuite>
+</testrun>

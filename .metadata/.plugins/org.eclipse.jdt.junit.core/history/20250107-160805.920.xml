@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="NarcisisticNumbers" project="NarcisisticNumbers" tests="3" started="3" failures="0" errors="3" ignored="0">
+  <testsuite name="NarcisisticNumberPackage.NumberUtilsTest" time="0.01" displayname="NumberUtilsTest" uniqueid="[engine:junit-jupiter]/[class:NarcisisticNumberPackage.NumberUtilsTest]">
+    <testcase name="test153isNarcisistic" classname="NarcisisticNumberPackage.NumberUtilsTest" time="0.005" displayname="test153isNarcisistic()" uniqueid="[engine:junit-jupiter]/[class:NarcisisticNumberPackage.NumberUtilsTest]/[method:test153isNarcisistic()]">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The declared package "" does not match the expected package "NarcisisticNumberPackage"
+	The method isNarcissistic(int) is undefined for the type NumberUtils
+	The method isNarcissistic(int) is undefined for the type NumberUtils
+	The method isNarcissistic(int) is undefined for the type NumberUtils
+&#13;
+	at NarcisisticNumberPackage.NumberUtilsTest.&lt;init&gt;(NarcisisticNumbersTest.java:1)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)&#13;
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="test1634isNarcisistic" classname="NarcisisticNumberPackage.NumberUtilsTest" time="0.001" displayname="test1634isNarcisistic()" uniqueid="[engine:junit-jupiter]/[class:NarcisisticNumberPackage.NumberUtilsTest]/[method:test1634isNarcisistic()]">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The declared package "" does not match the expected package "NarcisisticNumberPackage"
+	The method isNarcissistic(int) is undefined for the type NumberUtils
+	The method isNarcissistic(int) is undefined for the type NumberUtils
+	The method isNarcissistic(int) is undefined for the type NumberUtils
+&#13;
+	at NarcisisticNumberPackage.NumberUtilsTest.&lt;init&gt;(NarcisisticNumbersTest.java:1)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)&#13;
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="test112isNotNarcisistic" classname="NarcisisticNumberPackage.NumberUtilsTest" time="0.002" displayname="test112isNotNarcisistic()" uniqueid="[engine:junit-jupiter]/[class:NarcisisticNumberPackage.NumberUtilsTest]/[method:test112isNotNarcisistic()]">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The declared package "" does not match the expected package "NarcisisticNumberPackage"
+	The method isNarcissistic(int) is undefined for the type NumberUtils
+	The method isNarcissistic(int) is undefined for the type NumberUtils
+	The method isNarcissistic(int) is undefined for the type NumberUtils
+&#13;
+	at NarcisisticNumberPackage.NumberUtilsTest.&lt;init&gt;(NarcisisticNumbersTest.java:1)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)&#13;
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)&#13;
+&#13;
+</error>
+    </testcase>
+  </testsuite>
+</testrun>
